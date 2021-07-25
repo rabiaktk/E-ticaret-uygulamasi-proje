@@ -1,0 +1,10 @@
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\bin\Debug\EticaretUygulamasi.exe.config
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\bin\Debug\EticaretUygulamasi.exe
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\bin\Debug\EticaretUygulamasi.pdb
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\obj\Debug\EticaretUygulamasi.csprojAssemblyReference.cache
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\obj\Debug\EticaretUygulamasi.Properties.Resources.resources
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\obj\Debug\EticaretUygulamasi.csproj.GenerateResource.cache
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\obj\Debug\EticaretUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\obj\Debug\EticaretUygulamasi.exe
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\obj\Debug\EticaretUygulamasi.pdb
+C:\Users\Serif\source\repos\EticaretUygulamasi\EticaretUygulamasi\obj\Debug\EticaretUygulamasi.AnaEkran.resources
